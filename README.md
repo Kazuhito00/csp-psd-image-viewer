@@ -1,5 +1,5 @@
 # csp-psd-image-viewer
-CLIP STUDIO PAINT（.clip）や Photoshop（.psd）のレイヤー画像のビューアです。<br>
+CLIP STUDIO PAINT（.clip）や Photoshop（.psd）のレイヤー画像の簡易ビューアです。<br>
 GUIフレームワークに[Flet](https://flet.dev/)を使用しています。
 
 https://github.com/Kazuhito00/csp-psd-image-viewer/assets/37477845/acc439a2-98e2-40e6-b693-b82a99e1653f
