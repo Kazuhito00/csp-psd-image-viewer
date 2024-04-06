@@ -67,7 +67,7 @@ class CspPsdTool(object):
             pil_image = layer_data.topil()
             if pil_image is not None:
                 cv_image = np.array(pil_image, dtype=np.uint8)
-                cv_image = cv2.cvtColor(cv_image, cv2.COLOR_RGB2BGR)
+                cv_image = cv2.cvtColor(cv_image, cv2.COLOR_RGBA2BGRA)
 
         return cv_image
 
